@@ -33,7 +33,7 @@ $(document).ready(function(){
     items: 1, // Number of items to display
     loop: true, // Infinite loop
     nav: true, // Show next/prev buttons
-    navText: ["Prev", "Next"], // Custom text for nav buttons
+    navText: [], // Custom text for nav buttons
     dots: true, // Show pagination dots
     responsive: {
       0: {
